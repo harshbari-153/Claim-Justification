@@ -4,12 +4,12 @@ This repository contains the code and dataset for my MTech dissertation project 
 
 ## Project Details
 
-- **College**: [National Institute of Technology, Surat - 395007, Gujarat]
-- **Course**: [M.Tech CSE in Data Science]
-- **Batch**: [2023-2025]
-- **Guide**: [Dr. Krupa Jariwala]
-- **Student**: [Harsh Bari]
-- **Enrollment Number**: [P23DS004]
+- **College**: National Institute of Technology, Surat - 395007, Gujarat
+- **Course**: M.Tech CSE in Data Science
+- **Batch**: 2023-2025
+- **Guide**: Dr. Krupa Jariwala
+- **Student**: Harsh Bari
+- **Enrollment Number**: P23DS004
 
 ## Project Overview
 
