@@ -83,8 +83,3 @@ This project provides an efficient, scalable solution for claim-justification ma
 ## Contribution
 
 This project was developed as part of an MTech dissertation. Contributions included scraping and processing a large dataset, developing efficient embeddings based on subject-predicate distance, and implementing a multi-class classification model for claim-justification matching. The project also explores the potential for optimized NLP techniques in detecting inconsistencies in various real-world scenarios.
-
----
-
-**License**  
-This project is licensed under the MIT License - see the `LICENSE` file for details.
